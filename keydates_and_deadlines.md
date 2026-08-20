@@ -18,8 +18,6 @@ title: Key Dates and Deadlines
 
 - **Submission deadline**: {{ site.deadlines.poster_submission }}
 - **Author notification**: {{ site.deadlines.poster_notification }}
-# - **Late poster submission deadline (pending capacity)**: {{ site.deadlines.late_poster_submission }}
-# - **Late poster author notification**: {{ site.deadlines.late_poster_notification }}
 
 ---
 
