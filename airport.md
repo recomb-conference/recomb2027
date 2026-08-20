@@ -6,6 +6,7 @@ title: Directions from Airport to City Center
 #### Things to Know at the Airport
 
 TBA
+
 ---
 
 #### Transportation Options
@@ -13,11 +14,13 @@ TBA
 ##### 🚕 By Taxi
 
 TBA
+
 ---
 
 ##### 🚌 By Bus
 
 TBA
+
 ---
 
 ##### 🚗 Car Rental
