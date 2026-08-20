@@ -1,8 +1,8 @@
 # Site-wide settings
 # ------------------
 #
-title: RECOMB 2026
-iteration: "30th"
+title: RECOMB 2027
+iteration: "31st"
 location: "Toronto, Canada"
 city: "Toronto"
 country: "Canada"
@@ -138,7 +138,7 @@ main_navigation:
         url: https://recomb-seq.github.io/
         external: true
       - title: RECOMB-CCB
-        url: https://recomb.org/recomb-ccb2026
+        url: https://recomb.org/recomb-ccb2027
         external: true
       - title: RECOMB-CG
         url: https://recomb-cg.org/
@@ -168,31 +168,30 @@ main_navigation:
 
 # Custom variables	
 deadlines:
-  abstract_submission: "7 November 2025, 23:59 AoE"
-  paper_submission: "20 November 2025, 23:59 AoE"
-  author_notification: "16 January 2026"
-  final_version: "25 February 2026, 23:59 AoE"
-  early_registration: "24 April 2026, 23:59 AoE"
-  late_registration: "22 May 2026, 23:59 AoE"
+  abstract_submission: "October 28th, 2026, 23:59 AoE"
+  paper_submission: "November 4th, 2026, 23:59 AoE"
+  author_notification: "December 20th, 2026"
+  final_version: "TBA"
+  early_registration: "TBA"
+  late_registration: "TBA"
   highlights_submission: "TBA"
   highlights_notification: "TBA"
-  highlights_cutoff: "January 1, 2025" # earliest journal pub date for highlights submissions
-  poster_submission: "20 March 2026, 23:59 AoE"
-  poster_notification: "30 March 2026"
-  late_poster_submission: "15 April 2026, 23:59 AoE"
-  late_poster_notification: "20 April 2026"
-  travel_fellow_application: "2 March 2026, 23:59 AoE"
+  highlights_cutoff: "TBA" # earliest journal pub date for highlights submissions
+  poster_submission: "TBA"
+  poster_notification: "TBA"
+#  late_poster_submission: "15 April 2027, 23:59 AoE"
+#  late_poster_notification: "20 April 2027"
+  travel_fellow_application: "TBA"
   travel_fellow_notification: "TBA"
-  conference_dates: "26-29 May 2026"
-  satellite_dates: "24-25 May 2026" # for the home page
-  satellite_seq: "24-25 May 2026"
-  satellite_ccb: "24-25 May 2026"
-  satellite_cg: "24-25 May 2026"
-  satellite_genetics: "25 May 2026"
-  satellite_priv: "25 May 2026"
-  satellite_arch: "24 May 2026"
-  satellite_rsg: "25 May 2026"
-  hbio: "25 May 2026"
+  conference_dates: "May 17-20, 2027"
+  satellite_dates: "May 15-16, 2027" # for the home page
+  satellite_seq: "May 15-16, 2027"
+  satellite_ccb: "May 15-16, 2027"
+  satellite_cg: "May 15-16, 2027"
+  satellite_genetics: "May 16th, 2027"
+  satellite_priv: "May 15th, 2027"
+  satellite_arch: "24 May 2027"
+  satellite_rsg: "25 May 2027"
   
 links: 
   easychair: "https://easychair.org/conferences/?conf=recomb2027"
