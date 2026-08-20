@@ -25,19 +25,17 @@ page_class: committees-page
 
 ## Organizing Committee
 
-#### Co-chairs
+#### Chair
 
 | [{{ site.team.oc_chair1 }}]({{ site.team.oc_chair1_url }}) | {{ site.team.oc_chair1_institute }} |
-| [{{ site.team.oc_chair2 }}]({{}})  | {{ site.team.oc_chair2_institute }} |
 
 #### Operations
 
-| [{{ site.team.oc_member1 }}]({{ site.team.oc_member1_url }}) | {{ site.team.oc_member1_institute }} |
-| [{{ site.team.oc_member2 }}]({{}})  | {{ site.team.oc_member2_institute }} |
+TBA
 
 #### Publicity Chair
 
-| [{{ site.team.publicity_chair }}]({{ site.team.publicity_chair_url }}) | {{ site.team.publicity_chair_institute }} |
+TBA
 
 #### Keynotes Chair
 
@@ -45,17 +43,17 @@ page_class: committees-page
 
 #### Industry Chair
 
-| [{{ site.team.industry_chair }}]({{ site.team.industry_chair_url }}) | {{ site.team.industry_chair_institute }} |
+TBA
 
 ---
 
 ## Posters Chair
 
-| [{{ site.team.posters_chair }}]({{ site.team.posters_chair_url }}) | {{ site.team.posters_chair_institute }} |
+TBA
 
 ## Travel Fellowships Chair
 
-| [{{ site.team.travel_fellowship_chair }}]({{ site.team.travel_fellowship_chair_url }}) | {{ site.team.travel_fellowship_chair_institute }} |
+TBA
 
 ---
 
@@ -63,200 +61,32 @@ page_class: committees-page
 
 #### RECOMB-Seq
 
-| [Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic) | Broad Institute |
-| [Kristoffer Sahlin](https://sahlingroup.github.io/) | Stockholm University |
-
-#### RECOMB-RSG
-
-| [Ferhat Ay](https://www.lji.org/labs/ay/) | La Jolla Institute |
-| [Aly Azeem Khan](https://home.ttic.edu/~aakhan/) | University of Chicago |
+TBA
 
 #### RECOMB-CG
 
-| [Manuel Lafond](https://mlafond.recherche.usherbrooke.ca) | Université de Sherbrooke |
-
-#### RECOMB-Arch
-
-| [Ibrahim Numanagić](https://saray.ca/~ibrahim/) | University of Victoria |
-| [Yatish Turakhia](https://turakhia.ucsd.edu/) | University of California, San Diego |
+TBA
 
 #### RECOMB-Genetics
 
-| [Francesco Paolo Casale](https://www.helmholtz-munich.de/en/helmholtz-pioneer-campus/francesco-paolo-casale) | Helmholtz Munich |
-| [Maria Chikina](https://www.csb.pitt.edu/faculty/maria-chikina-phd/) | University of Pittsburgh |
+TBA
 
 #### RECOMB-Privacy
 
-| [Hoon Cho](https://medicine.yale.edu/profile/hoon-cho/) | Yale University |
-| [Sinem Sav](https://sinemsav.github.io/pages/sinemsav.html) | Bilkent University |
+TBA
 
 #### RECOMB-CCB
 
-| [Peter Van Loo](https://faculty.mdanderson.org/profiles/peter_vanloo.html) | MD Anderson Cancer Center |
-| [Hatice U. Osmanbeyoglu](https://www.osmanbeyoglulab.com/team) | University of Pittsburgh |
+TBA
 
 ---
 
 #### Student Volunteers
 
-| Ali Balapour |
-| Arda Icoz |
-| Panagiotis Kleitsiotis |
-| Antonis Tsanakas |
-| Apostolos Dimoulakis |
-| Christos Bouas |
-| Niki Paraskevaidou |
-| Agnanti Eirini |
-| Maria Loizou |
-| Joana Stratoberdha |
-| Christina Giannakou |
-| Athanasia Kontse |
-| Defne Hasanoglu |
-| Evangelia Chrysostomou |
-| Paschalina Tanggili |
-| Maria Athanasiadou |
-| Anastasia Savvopoulou |
-| Kyriaki Kolyra |
-| Efthimia Lamari |
-| Apostolos Moschopoulos |
-| Dimosthenis Theocharis |
-| Alexandra Antonoglou |
-| Christos Rafael Giannios |
-| Eleftherios Koios |
-| Theodora Eirini Zormpa |
-| Michail Kratimenos |
+TBA
 
 ---
 
 ### Program Committee
 
-| A. Ercument Cicek | Bilkent University |
-| Alexander Schoenhuth | Bielefeld University |
-| Alexandru I. Tomescu | University of Helsinki |
-| Aly Azeem Khan | University of Chicago |
-| Ana Conesa | University of Florida |
-| Anthony Gitter | University of Wisconsin-Madison |
-| Antoine Limasset | CNRS |
-| Aritra Bose | IBM |
-| Artem Cherkasov | UBC, Vancouver Prostate Centre |
-| Ben Raphael | Princeton University |
-| Benjamin Langmead | Johns Hopkins University |
-| Bo Huang | University of California, San Francisco |
-| Bonnie Berger | Massachusetts Institute of Technology |
-| Brian Hie | Stanford University |
-| Bruce Donald | Duke University |
-| Camille Marchet | CNRS |
-| Can Alkan | Bilkent University |
-| Can Firtina | University of Maryland |
-| Carl Kingsford | Carnegie Mellon University |
-| Cenk Sahinalp | National Cancer Institute |
-| Chirag Jain | Indian Institute of Science |
-| Christina Boucher | University of Florida |
-| Christos Ouzounis | CSD-AUTH |
-| Cong Ma | University of Michigan |
-| Daisuke Kihara | Purdue University |
-| David Koslicki | Penn State University |
-| Degui Zhi | University of Texas Health Science Center at Houston |
-| Derek Aguiar | University of Connecticut |
-| Elif Ozkirimli | Bogazici University |
-| Elior Rahmani | Tel Aviv University |
-| Emre Karakoc | Artios Pharma |
-| Erin Molloy | University of Maryland |
-| Fabio Vandin | University of Padova |
-| Faraz Hach | University of British Columbia and Vancouver Prostate Centre |
-| Farhad Hormozdiari | Google Health |
-| Fengzhu Sun | University of Southern California |
-| Fereydoun Hormozdiari | University of California, Davis |
-| Francesco Paolo Casale | Helmholtz Munich |
-| Gamze Gursoy | Columbia University |
-| Georgios Pavlopoulos | BSRC Alexander Fleming |
-| Gunnar W. Klau | Heinrich Heine University Düsseldorf |
-| Haixu Tang | Indiana University Bloomington |
-| Hyunghoon Cho | Yale University |
-| Iman Hajirasouliha | Cornell University |
-| Itsik Pe'Er | Columbia University |
-| Jens Stoye | Bielefeld University |
-| Jian Ma | Carnegie Mellon University |
-| Jianyang Zeng | Westlake University |
-| Jianzhu Ma | Tsinghua University |
-| Jie Zheng | ShanghaiTech University |
-| Jihyun F. Kim | Yonsei University |
-| Jingyi Jessica Li | University of California, Los Angeles |
-| Joshua Welch | University of Michigan |
-| Julia Palacios | Stanford University |
-| Jérôme Waldispühl | McGill University |
-| Karsten Borgwardt | Max Planck Institute of Biochemistry |
-| Kevin Yip | Sanford Burnham Prebys Medical Discovery Institute |
-| Knut Reinert | FU Berlin |
-| Kris Sankaran | University of Wisconsin - Madison |
-| Kristoffer Sahlin | Stockholm University |
-| Laura Cantini | Institut Pasteur and CNRS |
-| Layla Oesper | Carleton College |
-| Lenore Cowen | Tufts University |
-| Liang Huang | Oregon State University |
-| Louxin Zhang | National University of Singapore |
-| Manu Setty | Memorial Sloan Kettering Cancer Center |
-| Maria Chikina | University of Pittsburgh |
-| Martin Steinegger | Johns Hopkins University |
-| Martin Vingron | Max Planck Institut fuer molekulare Genetik |
-| Martin Zhang | Carnegie Mellon University |
-| Mehmet Koyutürk | Case Western Reserve University |
-| Mehrtash Babadi | Broad Institute of MIT and Harvard |
-| Michael Altenbuchinger | University Medical Center Göttingen |
-| Mikhail Kolmogorov | National Cancer Institute |
-| Min Xu | Carnegie Mellon University |
-| Mingfu Shao | Carnegie Mellon University |
-| Mohammed El-Kebir | University of Illinois at Urbana-Champaign |
-| Mona Singh | Princeton University |
-| Mukul S. Bansal | University of Connecticut |
-| Nadia El-Mabrouk | University of Montreal |
-| Niko Beerenwinkel | ETH Zurich |
-| Nikos Kyrpides | Joint Genome Institute |
-| Nir Ben Tal | Tel-Aviv University |
-| Olga Troyanskaya | Princeton University |
-| Onur Mutlu | ETH Zurich & Carnegie Mellon University |
-| Paul Medvedev | The Pennsylvania State University |
-| Pawel Przytycki | Boston University |
-| Riccardo Vicedomini | CNRS |
-| Ritambhara Singh | Brown University |
-| Rob Patro | University of Maryland |
-| Roded Sharan | Tel Aviv University |
-| Rohit Singh | Massachusetts Institute of Technology |
-| Ruochi Zhang | Carnegie Mellon University |
-| Russell Schwartz | Carnegie Mellon University |
-| Sagi Snir | University of Haifa |
-| Sai Zhang | Stanford University |
-| Salem Malikic | Cancer Data Science Laboratory, National Cancer Institute, National Institutes of Health |
-| Sebastian Böcker | Friedrich Schiller University Jena |
-| Shaojie Zhang | University of Central Florida |
-| Sheng Wang | University of Washington |
-| Siavash Mirarab | University of California, San Diego |
-| Smita Krishnaswamy | Yale University |
-| Sriram Sankararaman | UCLA |
-| Stefano Lonardi | UC Riverside |
-| Sushmita Roy | University of Wisconsin-Madison |
-| Tamir Tuller | Tel Aviv University |
-| Tandy Warnow | The University of Illinois at Urbana-Champaign |
-| Tatsuya Akutsu | Kyoto University |
-| Teresa Przytycka | National Center of Biotechnology Information, NLM, NIH |
-| Tetsuo Shibuya | Human Genome Center, Institute of Medical Science, The University of Tokyo |
-| Tunca Dogan | Hacettepe University |
-| Valentina Boeva | Institut Cochin/INSERM/CNRS |
-| Veli Mäkinen | University of Helsinki |
-| Vicky Yao | Rice University |
-| Victoria Popic | Stanford University |
-| Vineet Bafna | UC San Diego |
-| Vishaka Gopalan | National Cancer Institute |
-| William Noble | University of Washington |
-| Xiaowo Wang | Tsinghua University |
-| Xin Maizie Zhou | Vanderbilt University |
-| Xuegong Zhang | Tsinghua University |
-| Yann Ponty | CNRS/LIX, Polytechnique |
-| Yaron Orenstein | Bar-Ilan University |
-| Yijie Wang | Indiana University Bloomington |
-| Ying Ma | Brown University |
-| Yufeng Wu | University of Connecticut |
-| Yun William Yu | Carnegie Mellon University |
-| Yunan Luo | Georgia Institute of Technology |
-| Yuri Pritykin | Princeton University |
-| Yuzhen Ye | Indiana University Bloomington |
+TBA
