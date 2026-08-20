@@ -1,10 +1,7 @@
 ---
 layout: base
 ---
-<!-- 
-  This layout file adds the hero banner *above* the content from index.md.
-  I've updated it with your new RECOMB 2026 content.
--->
+
 <style>
 .home-page .page-content {
   padding: 0; /* Let the hero sit flush with the top of the viewport */
@@ -62,21 +59,20 @@ layout: base
   }
 </style>
 
-<!-- <div class="recomb-hero" style="background-image:  url({{ '/images/city/index-bg.jpg' | relative_url }});"> -->
+# <!-- <div class="recomb-hero" style="background-image:  url({{ '/images/city/index-bg.jpg' | relative_url }});"> -->
 
-<div class="recomb-hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('{{ "/images/city/index-bg.jpg" | relative_url }}');">
+ <div class="recomb-hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('{{ "/images/city/index-bg.jpg" | relative_url }}');">
   <h1>{{ site.title }}</h1>
   <h2>{{ site.location }}</h2>
   <h3><b>{{ site.deadlines.conference_dates }}</b></h3>
   <p>
-    Stay tuned <a href="https://twitter.com/search?q=%23RECOMB2026" target="_blank">#RECOMB2026</a>
+    Stay tuned <a href="https://twitter.com/search?q=%23RECOMB2027" target="_blank">#RECOMB2027</a>
     <br>
     Twitter <a href="https://twitter.com/RECOMBconf" target="_blank">@RECOMBconf</a>
     <br>
     Bluesky <a href="https://bsky.app/profile/recombconf.bsky.social" target="_blank">@RECOMBconf</a>
   </p>
-  <p style="font-weight: bold;">H.bioinfo'17: {{ site.deadlines.hbio }} <br>
-    Satellite Meetings: {{ site.deadlines.satellite_dates }}</p>
+  <p style="font-weight: bold;"> Satellite Meetings: {{ site.deadlines.satellite_dates }}</p>
 </div>
 
 <!-- This {{ content }} tag is what pulls in the content from your index.md file -->
