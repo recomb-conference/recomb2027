@@ -3,9 +3,9 @@
 #
 title: RECOMB 2026
 iteration: "30th"
-location: "Thessaloniki, Greece"
-city: "Thessaloniki"
-country: "Greece"
+location: "Toronto, Canada"
+city: "Toronto"
+country: "Canada"
 
 #
 author:
@@ -126,7 +126,7 @@ main_navigation:
         url: /hotels
       - title: Airport Directions
         url: /airport
-      - title: Things to do in Thessaloniki
+      - title: Things to do in Toronto
         url: /things_to_do
       - title: Local Transportation
         url: /transportation
@@ -148,21 +148,18 @@ main_navigation:
       - title: RECOMB-Privacy
         url: https://recomb-privacy.github.io/
         external: true
-      - title: RECOMB-Arch
-        url: https://recomb-arch.github.io/
-        external: true
-      - title: RECOMB-RSG
-        url: https://recomb-rsg.github.io/
-        external: true
+#      - title: RECOMB-Arch
+#        url: https://recomb-arch.github.io/
+#        external: true
+#      - title: RECOMB-RSG
+#        url: https://recomb-rsg.github.io/
+#        external: true
   - title: Sponsors
     children:
       - title: RECOMB Sponsors
         url: /sponsors
       - title: Sponsorship Packages
         url: /sponsorship_packages
-  - title: H.bioinfo'17
-    url: http://hbio2026.hbio.info/
-    external: true
 
 #  Moved this to the Conference tab
 #  - title: About RECOMB
@@ -198,45 +195,45 @@ deadlines:
   hbio: "25 May 2026"
   
 links: 
-  easychair: "https://easychair.org/conferences/?conf=recomb2026"
+  easychair: "https://easychair.org/conferences/?conf=recomb2027"
  
 team:
-  oc_chair1: "Christos Ouzounis"
-  oc_chair1_email: "cao@csd.auth.gr"
-  oc_chair1_institute: "Aristotle University of Thessaloniki"
-  oc_chair1_url: "https://csd.auth.gr/en/member/ouzounis-christos-2/"
-  oc_chair2: "Ezgi Ebren"
-  oc_chair2_email: "ezgiebren@gmail.com"
-  oc_chair2_institute: "Bilkent University"
-  oc_member1: "Ilias Kappas"
-  oc_member1_url: "https://qa.auth.gr/el/cv/ikappas"
-  oc_member1_institute: "Aristotle University of Thessaloniki"
-  oc_member2: "Asimina Kournoutou"
-  oc_member2_institute: "Aristotle University of Thessaloniki"
-  pc_chair: "Rayan Chikhi"
-  pc_chair_email: "rayan.chikhi@pasteur.fr"
-  pc_chair_institute: "Institut Pasteur"
-  pc_chair_url: "https://rayan.chikhi.name/"
-  publicity_chair: "Can Alkan"
-  publicity_chair_email: "calkan@cs.bilkent.edu.tr"
-  publicity_chair_institute: "Bilkent University"
-  publicity_chair_url: "https://www.cs.bilkent.edu.tr/~calkan/"
-  highlights_chair: "Michal Linial"
+  oc_chair1: ""
+  oc_chair1_email: ""
+  oc_chair1_institute: "Toronto University"
+  oc_chair1_url: ""
+  oc_chair2: ""
+  oc_chair2_email: ""
+  oc_chair2_institute: ""
+  oc_member1: ""
+  oc_member1_url: ""
+  oc_member1_institute: "Toronto University"
+  oc_member2: ""
+  oc_member2_institute: "Toronto University"
+  pc_chair: ""
+  pc_chair_email: ""
+  pc_chair_institute: ""
+  pc_chair_url: ""
+  publicity_chair: ""
+  publicity_chair_email: ""
+  publicity_chair_institute: ""
+  publicity_chair_url: ""
+  highlights_chair: ""
   highlights_chair_email: ""
-  highlights_chair_institute: "The Hebrew University of Jerusalem"
-  highlights_chair_url: "https://michal-linial.huji.ac.il/"
-  posters_chair: "Kaiyuan Zhu"
-  posters_chair_email: "kaiyuanzhu@sjtu.edu.cn"
-  posters_chair_institute: "Shanghai Jiao Tong University"
-  posters_chair_url: "https://www.cs.sjtu.edu.cn/en/jiaoshiml/zhukaiyuan.html"
-  travel_fellowship_chair: "Gurkan Bebek"
-  travel_fellowship_chair_email: "gurkan.bebek@case.edu"
-  travel_fellowship_chair_institute: "Case Western Reserve University School of Medicine"
-  travel_fellowship_chair_url: "https://case.edu/datascience/contact-us/faculty/gurkan-bebek"
-  industry_chair: "Mohammed Alser"
-  industry_chair_email: "malser@gsu.edu"
-  industry_chair_institute: "Georgia State University"
-  industry_chair_url: "https://cas.gsu.edu/profile/mohammed-alser/"
+  highlights_chair_institute: ""
+  highlights_chair_url: ""
+  posters_chair: ""
+  posters_chair_email: ""
+  posters_chair_institute: ""
+  posters_chair_url: ""
+  travel_fellowship_chair: ""
+  travel_fellowship_chair_email: ""
+  travel_fellowship_chair_institute: ""
+  travel_fellowship_chair_url: ""
+  industry_chair: ""
+  industry_chair_email: ""
+  industry_chair_institute: ""
+  industry_chair_url: ""
 
 #  nav_pages:
 #     - about.md
