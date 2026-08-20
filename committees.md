@@ -39,7 +39,7 @@ TBA
 
 #### Keynotes Chair
 
-| TBA | TBA |
+TBA
 
 #### Industry Chair
 
