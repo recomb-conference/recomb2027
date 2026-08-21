@@ -46,7 +46,6 @@ title: Key Dates and Deadlines
 - **RECOMB-Seq**: {{ site.deadlines.satellite_seq }}
 - **RECOMB-CCB**: {{ site.deadlines.satellite_ccb }}
 - **RECOMB-CG**: {{ site.deadlines.satellite_cg }}
-- **RECOMB-Arch**: {{ site.deadlines.satellite_arch }}
 - **RECOMB-Genetics**: {{ site.deadlines.satellite_genetics }}
 - **RECOMB-P&E**: {{ site.deadlines.satellite_priv }}
 - **RECOMB-RSG**: {{ site.deadlines.satellite_rsg }}
