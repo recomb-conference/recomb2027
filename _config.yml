@@ -194,7 +194,7 @@ deadlines:
   satellite_rsg: "25 May 2027"
   
 links: 
-  easychair: "https://easychair.org/conferences/?conf=recomb2027"
+  easychair: "https://easychair.org"
   
 team:
   oc_chair1: "Michael Brudno"
