@@ -68,7 +68,7 @@ To keep the reviewing load manageable, each author may be listed on at most **4 
 
 ## Abstract Registration
 
-There is a mandatory abstract submission deadline on 28 October 2026, 23:59 AoE, seven days prior to the full paper submissions deadline. This deadline allows the Program Committee to begin planning review assignments ahead of full paper submissions. After the abstract submission deadline has passed, new submissions will not be accepted, but authors can update the full paper submission before the paper submission deadline on 4 November 2026, 23:59 AoE.
+There is a mandatory abstract submission deadline on {{ site.deadlines.abstract_submission }}, seven days prior to the full paper submissions deadline. This deadline allows the Program Committee to begin planning review assignments ahead of full paper submissions. After the abstract submission deadline has passed, new submissions will not be accepted, but authors can update the full paper submission before the paper submission deadline on {{ site.deadlines.paper_submission }}.
 
 Please ensure the abstract registration closely aligns with full paper submission in terms of title, author list, and abstract content. “Placeholder” abstract registrations without meaningful descriptions will not be accepted. While minor updates to the abstract are allowed before the full paper submission deadline, any substantial changes to the title or abstract content risk being removed without consideration.
 
