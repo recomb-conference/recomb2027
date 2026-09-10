@@ -40,7 +40,7 @@ Papers from adjacent areas, for example agentic workflows or other AI systems fo
 
 ## Submission Guidelines
 
-Submissions should represent original, previously unpublished work. The Program Committee will rigorously review submitted papers. Selected papers will be accepted for presentation at the conference. Please use the following submission link: [EasyChair](https://easychair.org/conferences/?conf=recomb2027).
+Submissions should represent original, previously unpublished work. The Program Committee will rigorously review submitted papers. Selected papers will be accepted for presentation at the conference. Please use the following submission link: [https://easychair.org/conferences/?conf=recomb2027](https://easychair.org/conferences/?conf=recomb2027).
 
 All papers must be original and not simultaneously submitted to another journal or conference.
 
