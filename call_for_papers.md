@@ -88,6 +88,6 @@ Program Committee members may submit papers. Their submissions are reviewed unde
 
 ## Contact
 
-All questions about submissions should be emailed to the Program Committee Chair Rohit Singh (rohit.singh@duke.edu).
+All questions about submissions should be emailed to the Program Committee Chair [{{ site.team.pc_chair }}](mailto:{{ site.team.pc_chair_email }}).
 
-Information about poster submissions will be shared at a later date.
+*Information about poster submissions will be shared at a later date.*
