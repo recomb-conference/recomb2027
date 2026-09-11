@@ -31,7 +31,7 @@ International transport companies, such as airlines, must make sure that travell
 
 All visitors arriving from or transiting through the U.S. are encouraged to visit the [U.S. Customs and Border Protection website](https://www.cbp.gov/travel/international-visitors/know-before-you-visit) for information concerning the U.S. Western Hemisphere Travel Initiative, and the requirements to enter or return to the U.S.
 
-### All other countries
+### All Other Countries
 
 In addition to a Passport, **you may also need a visitor visa or an Electronic Travel Authorization**. The only exceptions are US Citizens, who require only their passport. [Find out if you need a visitor visa](https://ircc.canada.ca/english/visit/visas.asp) or ETA. The entry document you need depends on:
 
