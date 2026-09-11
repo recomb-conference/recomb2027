@@ -10,7 +10,7 @@ title: Visa Requirements
 All international travellers must carry acceptable identification and a valid visa (if necessary) when entering Canada. A passport is recommended because it is the only reliable and universally-accepted travel and identification document for the purpose of international travel.
 
 International transport companies, such as airlines, must make sure that travellers have proper, valid travel documents. **If you do not have the proper documents, you may be refused entry into Canada.** What you need will depend on where you are from, how you are traveling, and what documents you are travelling with. [Consult entry requirements by country](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html).
-
+<br>
 
 <iframe
   width="100%"
@@ -21,7 +21,7 @@ International transport companies, such as airlines, must make sure that travell
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
-
+<br>
 
 ### U.S. Citizens
 
