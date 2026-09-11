@@ -11,6 +11,7 @@ All international travellers must carry acceptable identification and a valid vi
 
 International transport companies, such as airlines, must make sure that travellers have proper, valid travel documents. **If you do not have the proper documents, you may be refused entry into Canada.** What you need will depend on where you are from, how you are traveling, and what documents you are travelling with. [Consult entry requirements by country](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html).
 
+
 <iframe
   width="100%"
   height="500"
@@ -20,6 +21,7 @@ International transport companies, such as airlines, must make sure that travell
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
+
 
 ### U.S. Citizens
 
