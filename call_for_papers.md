@@ -46,7 +46,7 @@ All papers must be original and not simultaneously submitted to another journal 
 
 Reviewing is single-blind; authors are not required to anonymize their submissions.
 
-To keep the reviewing load manageable, each author may be listed on at most **4 submissions**. Submissions that would place any author above this limit will be desk-rejected.
+To keep the reviewing load manageable, **each author may be listed on at most 4 submissions**. Submissions that would place any author above this limit will be desk-rejected.
 
 ## Key Dates
 
