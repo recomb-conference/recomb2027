@@ -40,8 +40,7 @@ Papers from adjacent areas, for example agentic workflows or other AI systems fo
 
 ## Submission Guidelines
 
-Submissions should represent original, previously unpublished work. The Program Committee will rigorously review submitted papers. Selected papers will be accepted for presentation at the conference. Please use the following submission link: *TBA*
-<!-- [{{ site.links.easychair }}]({{ site.links.easychair }}) -->
+Submissions should represent original, previously unpublished work. The Program Committee will rigorously review submitted papers. Selected papers will be accepted for presentation at the conference. Please use the following submission link: [{{ site.links.easychair }}]({{ site.links.easychair }})
 
 All papers must be original and not simultaneously submitted to another journal or conference.
 
