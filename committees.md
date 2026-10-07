@@ -61,21 +61,26 @@ TBA
 
 #### RECOMB-Seq
 
+| [Yun William Yu](https://www.cmu.edu/cbd/people/yu.html) | Carnegie Mellon University |
+| [Jasmijn A. Baaijens](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/jasmijn-baaijens) | Delft University of Technology |
+
+#### RECOMB-CCB
+
 TBA
 
 #### RECOMB-CG
 
 TBA
 
+#### RECOMB-Arch
+
+| [Can Firtina](https://www.cs.umd.edu/~firtina/) | University of Maryland |
+
 #### RECOMB-Genetics
 
 TBA
 
 #### RECOMB-Privacy
-
-TBA
-
-#### RECOMB-CCB
 
 TBA
 
