@@ -148,8 +148,8 @@ main_navigation:
       - title: RECOMB-Privacy
         url: https://recomb-privacy.github.io/
         external: true
-#      - title: RECOMB-Arch
-#        url: https://recomb-arch.github.io/
+      - title: RECOMB-Arch
+        url: https://recomb-arch.github.io/arch2027
 #        external: true
 #      - title: RECOMB-RSG
 #        url: https://recomb-rsg.github.io/
@@ -206,9 +206,9 @@ team:
   oc_chair2_institute: ""
   oc_member1: ""
   oc_member1_url: ""
-  oc_member1_institute: "Toronto University"
+  oc_member1_institute: ""
   oc_member2: ""
-  oc_member2_institute: "Toronto University"
+  oc_member2_institute: ""
   pc_chair: "Rohit Singh"
   pc_chair_email: "rohit.singh@duke.edu"
   pc_chair_institute: "Duke University"
