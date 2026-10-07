@@ -48,3 +48,4 @@ title: Key Dates and Deadlines
 - **RECOMB-CG**: {{ site.deadlines.satellite_cg }}
 - **RECOMB-Genetics**: {{ site.deadlines.satellite_genetics }}
 - **RECOMB-P&E**: {{ site.deadlines.satellite_priv }}
+- **RECOMB-Arch**: {{ site.deadlines.satellite_arch }}
