@@ -229,10 +229,10 @@ team:
   travel_fellowship_chair_email: ""
   travel_fellowship_chair_institute: ""
   travel_fellowship_chair_url: ""
-  industry_chair: ""
-  industry_chair_email: ""
-  industry_chair_institute: ""
-  industry_chair_url: ""
+  industry_chair: "Mohammed Alser"
+  industry_chair_email: "malser@gsu.edu"
+  industry_chair_institute: "Georgia State University"
+  industry_chair_url: "https://cas.gsu.edu/profile/mohammed-alser/"
 
 #  nav_pages:
 #     - about.md
