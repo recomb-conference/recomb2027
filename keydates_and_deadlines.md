@@ -37,7 +37,7 @@ title: Key Dates and Deadlines
 
 ## Conference
 
-- **Conference**: {{ site.deadlines.conference_dates }}
+- **RECOMB**: {{ site.deadlines.conference_dates }}
 
 ---
 
