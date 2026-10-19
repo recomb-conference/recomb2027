@@ -41,7 +41,7 @@ TBA
 
 TBA
 
-#### Industry Chair
+#### Industry Co-chairs
 
 | [{{ site.team.industry_chair1 }}]({{ site.team.industry_chair1_url }}) | {{ site.team.industry_chair1_institute }} |
 | [{{ site.team.industry_chair2 }}]({{ site.team.industry_chair2_url }}) | {{ site.team.industry_chair2_institute }} |
