@@ -43,7 +43,8 @@ TBA
 
 #### Industry Chair
 
-| [{{ site.team.industry_chair }}]({{ site.team.industry_chair_url }}) | {{ site.team.industry_chair_institute }} |
+| [{{ site.team.industry_chair1 }}]({{ site.team.industry_chair1_url }}) | {{ site.team.industry_chair1_institute }} |
+| [{{ site.team.industry_chair2 }}]({{ site.team.industry_chair2_url }}) | {{ site.team.industry_chair2_institute }} |
 
 ---
 
