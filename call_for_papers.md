@@ -62,7 +62,7 @@ To keep the reviewing load manageable, **each author may be listed on at most 4 
 
 - **Template:** There is no specific template requirement beyond these guidelines. Authors may choose to use the Springer Lecture Notes in Computer Science (LNCS) LaTeX template, as long as the above-mentioned page limit and margin requirements are respected.
 
-- **Optional Appendix:** If necessary, an Appendix can be submitted as Supplementary Material in a single PDF file. The Appendix should contain materials directly supporting the paper content. There is no page limit for the Appendix, but please note that reviewing the Appendix is at the discretion of the reviewers.
+- **Optional Appendix:** Authors may include an optional appendix containing additional figures, tables, and analyses, either appended to the main paper or uploaded separately as supplementary material. There is no page limit for the appendix. The main paper must be self-contained. Reviewers may consult the appendix at their discretion but are not required to do so.
 
 - **Source code availability:** Importantly, if the paper involves the development of new software or analysis methods, the source code must be made publicly accessible via e.g. a GitHub repository, with a README file that is sufficiently documented by the submission deadline for reviewers to examine. The link to the public repository must be clearly indicated in the paper.
 
