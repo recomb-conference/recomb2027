@@ -42,7 +42,7 @@ Papers from adjacent areas, for example agentic workflows or other AI systems fo
 
 Submissions should represent original, previously unpublished work. The Program Committee will rigorously review submitted papers. Selected papers will be accepted for presentation at the conference. Please use the following submission link: [{{ site.links.easychair }}]({{ site.links.easychair }})
 
-All papers must be original and not simultaneously submitted to another journal or conference.
+All papers must report original work and must not be simultaneously submitted to another conference. Concurrent submission to a journal is permitted under the policy described in the “Journal Publication” section.
 
 Reviewing is single-blind; authors are not required to anonymize their submissions.
 
@@ -80,9 +80,11 @@ Accepted papers will be published on the conference website and indexed in DBLP;
 
 ## Journal Publication
 
-In past years, RECOMB has partnered with Cell Systems, Genome Research, and the Journal of Computational Biology. Authors of selected accepted papers were invited, but not required, to submit a revised version of their paper for a special issue in one of the partnering journals. Partner journal arrangements for RECOMB 2027 are being finalized and will be announced on the conference website. Separately, all accepted papers not published elsewhere will be offered publication in a special issue of the Journal of Computational Biology.
+RECOMB is partnering with Cell Systems, Genome Research, and the Journal of Computational Biology. Authors of selected accepted papers will be invited, but not required, to submit a revised and expanded version of their paper for a special issue in one of the partnering journals.
 
-Preprint server submissions are allowed without restrictions. Submissions to peer-reviewed journals other than the partnering ones are also allowed, after the authors have received a decision on their initial submission, whether accepted or rejected.
+Separately, all accepted papers not published elsewhere will be offered publication in a special issue of the Journal of Computational Biology.
+
+Preprint server submissions are allowed without restrictions. Concurrent submission to any peer-reviewed journal, including journals outside these partnerships, is permitted, provided that the paper has not been accepted for journal publication on or before the RECOMB full-paper submission deadline. Journal acceptance after this deadline does not affect eligibility for RECOMB.
 
 ## Program Committee Members
 
