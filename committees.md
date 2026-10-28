@@ -31,15 +31,7 @@ page_class: committees-page
 
 #### Operations
 
-TBA
-
-#### Publicity Chair
-
-TBA
-
-#### Keynotes Chair
-
-TBA
+| Ezgi Ebren | Bilkent University |
 
 #### Industry Co-chairs
 
