@@ -119,7 +119,6 @@ TBA
 | Natnatee Dokmai | CMKL University |
 | Bruce Donald | Duke University |
 | Mingze Dong | |
-| Ezgi Ebren | Bilkent University |
 | Mohammed El-Kebir | University of Illinois at Urbana-Champaign |
 | Nadia El-Mabrouk | |
 | Can Firtina | University of Maryland |
