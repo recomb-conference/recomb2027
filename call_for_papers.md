@@ -80,11 +80,11 @@ Accepted papers will be published on the conference website and indexed in DBLP;
 
 ## Journal Publication
 
-RECOMB is partnering with Cell Systems, Genome Research, and the Journal of Computational Biology. Authors of selected accepted papers will be invited, but not required, to submit a revised and expanded version of their paper for a special issue in one of the partnering journals.
+RECOMB is partnering with **Cell Systems**, **Genome Research**, and **the Journal of Computational Biology**. Authors of selected accepted papers will be invited, but not required, to submit a revised and expanded version of their paper for a special issue in one of the partnering journals.
 
 Separately, all accepted papers not published elsewhere will be offered publication in a special issue of the Journal of Computational Biology.
 
-Preprint server submissions are allowed without restrictions. Concurrent submission to any peer-reviewed journal, including journals outside these partnerships, is permitted, provided that the paper has not been accepted for journal publication on or before the RECOMB full-paper submission deadline. Journal acceptance after this deadline does not affect eligibility for RECOMB.
+Preprint server submissions are allowed without restrictions. Concurrent submission to any peer-reviewed journal, including journals outside these partnerships, is permitted, **provided that the paper has not been accepted for journal publication on or before the RECOMB full-paper submission deadline**. Journal acceptance after this deadline does not affect eligibility for RECOMB.
 
 ## Program Committee Members
 
