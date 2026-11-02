@@ -89,7 +89,7 @@ TBA
 
 | Derek Aguiar | University of Connecticut |
 | Tatsuya Akutsu | Kyoto University |
-| Can Alkan | Bilkent University, Department of Computer Engineering |
+| Can Alkan | Bilkent University |
 | Mukul S. Bansal | University of Connecticut |
 | Niko Beerenwinkel | ETH Zurich |
 | Nir Ben Tal | Tel-Aviv University |
@@ -97,8 +97,8 @@ TBA
 | Karsten Borgwardt | Max Planck Institute of Biochemistry |
 | Aritra Bose | IBM |
 | Christina Boucher | University of Florida |
-| Dongbo Bu | Insitute of Computing Technology, Chinese Academy of Sciences |
-| Francesco Casale | |
+| Dongbo Bu | Institute of Computing Technology, Chinese Academy of Sciences |
+| Francesco Casale | Helmholtz Munich |
 | Cedric Chauve | Simon Fraser University |
 | Hao Chen | University of Illinois Chicago |
 | Brian Chen | Lehigh University |
@@ -110,15 +110,15 @@ TBA
 | Kapil Devkota | Duke University |
 | Natnatee Dokmai | CMKL University |
 | Bruce Donald | Duke University |
-| Mingze Dong | |
+| Mingze Dong | Stanford University |
 | Mohammed El-Kebir | University of Illinois at Urbana-Champaign |
-| Nadia El-Mabrouk | |
+| Nadia El-Mabrouk | Université de Montréal |
 | Can Firtina | University of Maryland |
 | Travis Gagie | Dalhousie University |
 | Xin Gao | King Abdullah University of Science and Technology |
 | Anthony Gitter | University of Wisconsin-Madison |
 | Vishaka Gopalan | National Cancer Institute |
-| Gamze Gursoy | University of Cambrdige |
+| Gamze Gursoy | University of Cambridge |
 | Faraz Hach | University of British Columbia and Vancouver Prostate Centre |
 | Iman Hajirasouliha | Cornell University |
 | Bjarni Halldorsson | deCODE genetics and Reykjavik University |
@@ -127,15 +127,15 @@ TBA
 | Fereydoun Hormozdiari | University of California, Davis |
 | Bo Huang | University of California, San Francisco |
 | Chirag Jain | Indian Institute of Science |
-| Wengong Jin | |
-| Bowen Jing | |
+| Wengong Jin | Northeastern University |
+| Bowen Jing | Divergence Labs |
 | Sunduz Keles | University of Wisconsin-Madison |
 | Aly Azeem Khan | University of Chicago |
 | Daisuke Kihara | Purdue University |
 | Carl Kingsford | Carnegie Mellon University |
 | Mikhail Kolmogorov | National Cancer Institute |
 | Tal Korem | Columbia University |
-| David Koslicki | Penn State University |
+| David Koslicki | Pennsylvania State University |
 | Mehmet Koyutürk | Case Western Reserve University |
 | Smita Krishnaswamy | Yale University |
 | Gregory Kucherov | CNRS/LIGM |
@@ -151,18 +151,18 @@ TBA
 | Jian Ma | Carnegie Mellon University |
 | Wenxiu Ma | University of California Riverside |
 | Cong Ma | University of Michigan |
-| Jianzhu Ma | Department of Electronic Engineering, Tsinghua University & Institute for AIR, Tsinghua University, Beijing, China. |
+| Jianzhu Ma | Tsinghua University |
 | Ahmed Mahfouz | Leiden University Medical Center |
 | Bill Majoros | Duke University |
 | Veli Mäkinen | University of Helsinki |
-| Salem Malikic | Cancer Data Science Laboratory, National Cancer Institute, National Institutes of Health |
-| Paul Medvedev | The Pennsylvania State University |
+| Salem Malikic | National Cancer Institute |
+| Paul Medvedev | Pennsylvania State University |
 | Siavash Mirarab | University of California, San Diego |
 | Erin Molloy | University of Maryland, College Park |
 | Onur Mutlu | ETH Zurich & Carnegie Mellon University |
 | Giri Narasimhan | Florida International University |
-| Sumaiya Nazeen | Massachusetts Institute of Technology |
-| Rahul Nihalani | Georgia Institute of Technology |
+| Sumaiya Nazeen | Harvard Medical School |
+| Rahul Nihalani | Unravel Biosciences |
 | William Noble | University of Washington |
 | Ibrahim Numanagić | University of Victoria |
 | Alex Ochoa | Duke University |
@@ -174,54 +174,54 @@ TBA
 | Cinzia Pizzi | University of Padova |
 | Yann Ponty | CNRS/LIX, Polytechnique |
 | Victoria Popic | Broad Institute |
-| Aditya Pratapa | Akoya Biosciences Inc. |
-| Teresa Przytycka | National Center of Biotechnology Information, NLM, NIH |
+| Aditya Pratapa | Duke University |
+| Teresa Przytycka | National Center of Biotechnology Information |
 | Pawel Przytycki | Boston University |
-| Elior Rahmani | |
+| Elior Rahmani | Stanford University |
 | Ben Raphael | Princeton University |
 | Knut Reinert | FU Berlin |
-| Yusuf Roohani | |
+| Yusuf Roohani | Arc Institute |
 | Sushmita Roy | University of Wisconsin-Madison |
 | Cenk Sahinalp | National Cancer Institute |
-| Kristoffer Sahlin | Department of Mathematics, Stockholm University |
+| Kristoffer Sahlin | Stockholm University |
 | Kris Sankaran | University of Wisconsin - Madison |
 | Sriram Sankararaman | UCLA |
 | Palash Sashittal | Virginia Tech |
 | Alexander Schoenhuth | Bielefeld University |
 | Russell Schwartz | Carnegie Mellon University |
-| Mingfu Shao | Computational Biology Department, Carnegie Mellon University |
-| Roded Sharan | Tel Aviv University. |
-| Tetsuo Shibuya | Human Genome Center, Institute of Medical Science, The University of Tokyo |
+| Mingfu Shao | Pennsylvania State University |
+| Roded Sharan | Tel Aviv University |
+| Tetsuo Shibuya | University of Tokyo |
 | Kana Shimizu | Waseda University |
-| Rohit Singh | Massachusetts Institute of Technology |
-| Ritambhara Singh | |
+| Rohit Singh | Duke University |
+| Ritambhara Singh | Brown University |
 | Mona Singh | Princeton University |
-| Sanju Sinha | |
-| Sagi Snir | Institute of evolution |
+| Sanju Sinha | Sanford Burnham Prebys Medical Discovery Institute |
+| Sagi Snir | University of Haifa |
 | Jens Stoye | Bielefeld University |
 | Fengzhu Sun | University of Southern California |
 | Krister Swenson | CNRS, Université de Montpellier |
 | Haixu Tang | Indiana University Bloomington |
-| Lipi Thukral | |
+| Lipi Thukral | CSIR-IGIB, Delhi |
 | Alexandru I. Tomescu | University of Helsinki |
 | Tamir Tuller | Tel Aviv University |
 | Fabio Vandin | University of Padova |
 | Martin Vingron | Max Planck Institut fuer molekulare Genetik |
 | Jérôme Waldispühl | McGill University |
-| Yijie Wang | School of Informatics and Computing, Indiana University, Bloomington, IN 47408 |
+| Yijie Wang | Indiana University |
 | Xiaowo Wang | Tsinghua University |
 | Sheng Wang | University of Washington |
-| Tandy Warnow | the university of illinois at urbana-champaign |
+| Tandy Warnow | University of Illinois at Urbana-Champaign |
 | Sebastian Will | Ecole Polytechnique |
-| Yufeng Wu | Computer Science and Engineering Department, University of Connecticut |
+| Yufeng Wu | University of Connecticut |
 | Jichun Xie | Duke University |
 | Min Xu | Carnegie Mellon University |
-| Soojung Yang | |
+| Soojung Yang | Stanford University |
 | Vicky Yao | Rice University |
 | Yuzhen Ye | Indiana University Bloomington |
 | Kevin Yip | Sanford Burnham Prebys Medical Discovery Institute |
 | Yun William Yu | Carnegie Mellon University |
-| Hamim Zafar | Carnegie Mellon University |
+| Hamim Zafar | IIT Kanpur |
 | Jianyang Zeng | Westlake University |
 | Yi Zhang | Duke University |
 | Shaojie Zhang | University of Central Florida |
@@ -231,7 +231,7 @@ TBA
 | Chi Zhang | Oregon Health and Science University |
 | Louxin Zhang | National University of Singapore |
 | Xiuwei Zhang | Georgia Institute of Technology |
-| Ruochi Zhang | Carnegie Mellon University |
+| Ruochi Zhang | Broad Institute |
 | Jie Zheng | ShanghaiTech University |
-| Degui Zhi | |
+| Degui Zhi | UTHealth Houston |
 | Xin Maizie Zhou | Vanderbilt University |
