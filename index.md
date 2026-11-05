@@ -1,6 +1,6 @@
 ---
 layout: home
-title: RECOMB 2026
+title: {{ site.title }}
 ---
 
 <center>
