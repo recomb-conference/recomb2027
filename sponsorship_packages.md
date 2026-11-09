@@ -11,51 +11,46 @@ RECOMB is the most prestigious annual international conference on computational 
 ## Diamond - $30,000
 
 - Three complimentary conference registrations
-- Exclusive Named Sponsor of a Poster Session or two preferred full sessions of the conference (e.g. Cancer genomics, Sequence Analysis, Networks, Machine Learning …)
-- Exhibit table in a preferred location at the foyer
-- Company logo on the conference website identified as Diamond Sponsor
-- Company logo on the conference app
-- Logo slide during breaks
-- Company name included on signage at the foyer
-- One company brochure or marketing piece inserted in conference handouts	(if any)
+- Exclusive Named Sponsor of a Poster Session or two preferred full sessions of the conference (e.g. Cancer genomics, Sequence Analysis, Networks, Machine Learning, etc.)
+- Two shell-scheme exhibition booths (merged into a single, larger booth)
+- Optional 5-minute presentation opportunity before one of the lunch breaks
+- Screening of promotional slides during breaks
+- Company logo shown on opening and break slides identified as a Diamond Sponsor
+- Company logo displayed on the conference website identified as a Diamond Sponsor
+- Company logo displayed at the registration desk and poster area
 
 
 ## Platinum - $20,000
 
 - Two complimentary conference registrations
-- Exclusive Named Sponsor of a Poster Session or one preferred full session of the conference (e.g. Cancer genomics, Sequence Analysis, Networks, Machine Learning …)
-- Exhibit table at the foyer
-- Company logo on the conference website identified as Platinum Sponsor
-- Company logo on the conference app
-- Logo slide during breaks
-- Company name included on signage at the foyer
+- Exclusive Named Sponsor of a conference session (e.g. Cancer genomics, Sequence Analysis, Networks, Machine Learning, etc.)
+- Two open space exhibition booths or one shell-scheme exhibition booth
+- Screening of promotional slides during breaks
+- Company logo shown on opening and break slides identified as a Platinum Sponsor
+- Company logo displayed on the conference website identified as a Platinum Sponsor
+- Company logo displayed at the registration desk and poster area
 
 
 ## Gold - $10,000
 
-- One complimentary conference registration
-- Exhibit table at the Poster Sessions
-- Company logo on the conference website identified as a Gold Sponsor
-- Company logo on the conference app
-- Logo slide during breaks
-- Company name included on signage at the foyer
+- Two complimentary conference registrations
+- One open space exhibition booth
+- Company logo shown on opening and break slides identified as a Gold Sponsor
+- Company logo displayed on the conference website identified as a Gold Sponsor
+- Company logo displayed at the registration desk and poster area
 
 
 ## Silver - $5,000
 
-- One complimentary conference registration	
-- Company logo on the conference website identified as a Silver Sponsor
-- Company logo on the conference app
-- Logo slide during breaks	
-- Company name included on signage at the foyer
+- One complimentary conference registration
+- Company logo displayed on the conference website identified as a Silver Sponsor
+- Company logo displayed at the registration desk and poster area
 
 
 ## Bronze - $2,500
 
-- Company logo on the conference website identified as a Bronze Sponsor
-- Company logo on the conference app
-- Logo slide during breaks	
-- Company name included on signage at the foyer
+- Company logo displayed on the conference website identified as a Bronze Sponsor
+- Company logo displayed at the registration desk and poster area
 
 
 ## Other
