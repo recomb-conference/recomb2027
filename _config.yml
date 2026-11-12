@@ -237,6 +237,10 @@ team:
   industry_chair2_email: "firtina@umd.edu"
   industry_chair2_institute: "University of Maryland"
   industry_chair2_url: "https://www.cs.umd.edu/~firtina/"
+  proceedings_chair: "Can Alkan"
+  proceedings_chair_email: "calkan@cs.bilkent.edu.tr"
+  proceedings_chair_institute: Bilkent University""
+  proceedings_chair_url: "https://cs.bilkent.edu.tr/~calkan/"
 
 #  nav_pages:
 #     - about.md
